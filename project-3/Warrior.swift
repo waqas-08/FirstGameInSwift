@@ -1,0 +1,8 @@
+class Warrior : Character{
+    
+}
+
+
+
+
+
